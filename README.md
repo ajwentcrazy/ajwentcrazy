@@ -4,7 +4,6 @@
 </div>
 <br/>
 <img height="100" alt="paint" width="100" src="paint_winXP.jpg"/>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <img height="100" alt="web" width="100" src="web.gif"/>
 
 <!-- Footer -->
