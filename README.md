@@ -3,10 +3,9 @@
   <img src="welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 <br/>
-<img height="200" alt="Thanks for visiting me" width="200" src="paint_winXP.jpg"/>
+<img height="100" alt="paint" width="100" src="paint_winXP.jpg"/>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img height="200" alt="Thanks for visiting me" width="200" src="web.gif"/>
-<br/>
+<img height="100" alt="web" width="100" src="web.gif"/>
 
 <!-- Footer -->
 
