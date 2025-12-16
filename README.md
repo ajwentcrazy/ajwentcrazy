@@ -6,7 +6,9 @@
 <br/>
 
 <div align="center">
-  <img height="300" alt="paint" width="300" src="paint_winXP.jpg"/>
+  <img height="400" alt="paint" width="400" src="paint_winXP.jpg"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img height="300" alt="web" width="300" src="web.gif"/>
 </div>
