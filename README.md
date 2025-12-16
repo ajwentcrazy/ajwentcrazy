@@ -10,8 +10,12 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <img height="500" alt="paint" width="400" src="paint_winXP.jpg"/> 
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img height="300" alt="web" width="300" src="web.gif"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </div>
 
 <br/>
