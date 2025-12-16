@@ -10,7 +10,9 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="thanks.svg"/>
 <br/>
-<img height="100" alt="Thanks for visiting me" width="100" src="discord.gif"/>
+<img height="200" alt="Thanks for visiting me" width="200" src="paint_winXP.jpg"/>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img height="200" alt="Thanks for visiting me" width="200" src="web.gif"/>
 <br/>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30"/>
 <!-- "margin-right: whatever;" -->
