@@ -23,7 +23,7 @@
 <div align="center">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <a href="https://github.com/ajwentcrazy/SolaOne.fun"><img height="300" alt="repository1" src=".\repositories\repository1.png"/><a/>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+  <span>&nbsp;&nbsp;&nbsp;</span> 
   <a href="https://github.com/ajwentcrazy/Fake-Discord-Statue"><img height="300" alt="repository2" src=".\repositories\repository2.png"/><a/>
 </div>
 
