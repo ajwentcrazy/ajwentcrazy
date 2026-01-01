@@ -21,10 +21,10 @@
 <br/>
 
 <div align="center">
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <a href="https://github.com/ajwentcrazy/SolaOne.fun"><img height="100" alt="repository1" src=".\repositories\repository1.png"/><a/>
-  <span>&nbsp;&nbsp;&nbsp;</span> 
-  <a href="https://github.com/ajwentcrazy/Fake-Discord-Statue"><img height="100" alt="repository2" src=".\repositories\repository2.png"/><a/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://github.com/ajwentcrazy/SolaOne.fun"><img height="150" alt="repository1" src=".\repositories\repository1.png"/><a/>
+  <span>&nbsp;</span>
+  <a href="https://github.com/ajwentcrazy/Fake-Discord-Statue"><img height="150" alt="repository2" src=".\repositories\repository2.png"/><a/>
 </div>
 
 <br/>
