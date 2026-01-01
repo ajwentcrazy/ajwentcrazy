@@ -6,10 +6,9 @@
 <br/>
 
 <div align="center">
+  <img height="300" alt="paint" src="paint_win98.jpg"/> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="400" alt="paint" src="paint_win98.jpg"/> 
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="400" alt="notepad" src="notepad_win98.png"/> 
+  <img height="300" alt="notepad" src="notepad_win98.png"/> 
 </div>
 <br/>
 <div>
