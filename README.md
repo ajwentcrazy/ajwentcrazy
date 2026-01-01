@@ -23,13 +23,13 @@ Favorite repositories
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="thanks.svg"/>
   <br/>
-  <img src=".\icon\discordicon.png" alt="DISCORD" height="20"/>
+  <img src=".\icon\discordicon.png" alt="DISCORD" height="40"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\spotifyicon.png" alt="SPOTIFY" height="20"/>
+  <img src=".\icon\spotifyicon.png" alt="SPOTIFY" height="40"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\ubuntuicon.png" alt="UBUNTU" height="20"/>
+  <img src=".\icon\ubuntuicon.png" alt="UBUNTU" height="40"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\twitchicon.png" alt="TWITCH" height="20"/>
+  <img src=".\icon\twitchicon.png" alt="TWITCH" height="40"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src=".\icon\steamicon.png" alt="STEAM" height="20"/>
+  <img src=".\icon\steamicon.png" alt="STEAM" height="40"/>
 </div>
