@@ -9,7 +9,7 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="400" alt="paint" width="400" src="paint_winXP.jpg"/> 
+  <img height="400" alt="paint" src="paint_winXP.jpg"/> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
@@ -23,9 +23,13 @@ Favorite repositories
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="thanks.svg"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30"/>
+  <img src=".\icon\discordicon.png" alt="DISCORD" height="20"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer"/>
+  <img src=".\icon\spotifyicon.png" alt="SPOTIFY" height="20"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer"/>
+  <img src=".\icon\ubuntuicon.png" alt="UBUNTU" height="20"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src=".\icon\twitchicon.png" alt="TWITCH" height="20"/>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src=".\icon\steamicon.png" alt="STEAM" height="20"/>
 </div>
