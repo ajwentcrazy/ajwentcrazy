@@ -9,7 +9,7 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="600" alt="paint" width="600" src="paint_winXP.jpg"/> 
+  <img height="400" alt="paint" width="400" src="paint_winXP.jpg"/> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
