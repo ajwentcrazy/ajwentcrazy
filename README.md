@@ -7,7 +7,7 @@
 
 <div align="center">
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="800" alt="paint" src="paint_winXP.jpg"/> 
+  <img height="300" alt="paint" src="paint_winXP.jpg"/> 
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span> 
 </div>
 <br/>
