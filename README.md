@@ -7,7 +7,7 @@
   <span>&nbsp;</span> 
   <a href="https://en.wikipedia.org/wiki/Microsoft_Paint"><img height="300" alt="paint" src="paint_win98.jpg"/><a/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-  <img height="300" alt="notepad" src="notepad_win98_v2.png"/>
+  <a href="https://discord.gg/GDFEXnQ9bU"><img height="300" alt="notepad" src="notepad_win98_v2.png"/><a/>
 </div>
 <br/>
 <div>
